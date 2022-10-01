@@ -1,1 +1,3 @@
-Hello everyone this is Amar here is my Insta ID: [Insta](https://instagram.com/theamartripathi
+Hello everyone this is Amar Tripathi
+I'm sophomore 
+

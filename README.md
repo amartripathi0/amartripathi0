@@ -1,1 +1,1 @@
-Hi , Amar Tripathi this side.
+Hi , Amar this side.

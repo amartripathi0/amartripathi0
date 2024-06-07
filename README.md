@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Amar 
+## 👋 Hey there! Amar here
 ### I'm a Full Stack Web Developer and dedicated Computer Science student passionate about tech and coding.
 
 

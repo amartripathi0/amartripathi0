@@ -1,7 +1,7 @@
 ## 👋 Hey there! Amar here
 I'm a Full Stack Web Developer and dedicated Computer Science student passionate about tech and coding.
 
-### [My Portfolio](https://www.amartripathi.vercel.app) 
+### [My Portfolio](https://amartripathi.vercel.app) 
 
 
 #### 🌐 Connect with me on    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-tripathi/) 

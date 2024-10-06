@@ -4,7 +4,9 @@ I'm a Full Stack Web Developer and dedicated Computer Science student passionate
 ### [My Portfolio](https://amartripathi.vercel.app) 
 
 
-#### 🌐 Connect with me on    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-tripathi/) 
+#### 🌐 Connect with me on    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-tripathi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/amartripathi_)
+
+
 
 ### 🚀 Technologies I work with:
 

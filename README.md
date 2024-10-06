@@ -1,5 +1,5 @@
 ## 👋 Hey there! Amar here
-I'm a Full Stack Web Developer and dedicated Computer Science student passionate about tech and coding.
+I'm a Full Stack Web Developer and dedicated Computer Science Student passionate about tech and coding.
 
 ### [My Portfolio](https://amartripathi.vercel.app) 
 

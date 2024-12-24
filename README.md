@@ -1,7 +1,7 @@
 ## 👋 Hey there! Amar here
 I'm a Full Stack Web Developer, Freelancer and dedicated Computer Science Student passionate about tech and coding.
 
-### [My Portfolio](https://amartripathi.con) 
+### [My Portfolio](https://amartripathi.com) 
 
 
 #### 🌐 Connect with me on    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](httms://www.linkedin.com/in/amar-tripathi/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/amartripathi_)

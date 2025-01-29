@@ -7,6 +7,18 @@ I'm a Full Stack Web Developer, Freelancer and dedicated Computer Science Studen
 #### 🌐 Connect with me on    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](httms://www.linkedin.com/in/amar-tripathi/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/amartripathi_)
 
 
+### TLDR;
+
+- Fullstack Web Developer and Freelancer, Final-year BTech CSE student
+- Stack: NextJs, Typescript, TailwindCSS, MERN
+- [amartripathi.com](https://amartripathi.com)
+- Open to collaborations, gigs, and opportunities.
+
+I'm a final year Computer Science Engineering student with a burning passion for technology and coding, specializing in web development and the MERN stack. Proficient in TypeScript, Tailwind CSS, React.js, Next.js, Node.js, and more, I'm driven to create innovative solutions that push boundaries and solve real-world problems.
+
+Apart from tech, I love to listen to music, produce hip-hop beats, and experiment with cooking different cuisines.
+
+Let's connect and explore the possibilities together!
 
 ### 🚀 Technologies I work with:
 

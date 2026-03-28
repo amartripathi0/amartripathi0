@@ -16,7 +16,6 @@ I led the development of [chat.galaxy.ai](https://chat.galaxy.ai) — a multi-mo
 - Real-time streaming, RAG pipelines, multi-tool calling, LLM orchestration
 - Reduced TTFB by **36%** across millions of records via async offloading and query optimization
 - Built **60+ AI tools** spanning video, image, and audio generation
-- B.Tech CSE, BIT Durg (8.36 CPI)
 
 ### Stack
 
